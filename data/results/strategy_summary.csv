@@ -1,0 +1,5 @@
+Signal,N_trades,Total_ret%,BH_ret%,Excess_ret%,Sharpe,Win_rate%,Max_DD%,p_value,Perm_p_value
+S1 Level (median),94,-2.23,-34.4,32.17,0.0177,51.6,-34.49,0.8635,0.359
+S2 Change (positive),45,-26.99,-25.87,-1.12,-0.0799,20.0,-33.57,0.4502,0.359
+S3 Composite,94,-2.23,-34.4,32.17,0.0177,51.6,-34.49,0.8635,0.359
+S4 High conf only,86,-53.73,-34.4,-19.33,-0.1529,33.7,-53.54,0.1394,0.359

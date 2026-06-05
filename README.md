@@ -186,5 +186,5 @@ Kofi-An | Financial Data Scientist
 Accra, Ghana | Open to remote roles globally
 
 [GitHub](https://github.com/Kofi-An) ·
-[LinkedIn](https://linkedin.com/in/your-handle) ·
+[LinkedIn](https://linkedin.com/in/kfam88) ·
 [Portfolio](https://kofi-an.github.io)
